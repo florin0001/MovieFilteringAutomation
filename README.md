@@ -79,3 +79,9 @@ dotnet test Tests.API
 2. Seteaza API key-ul cum e explicat mai sus
 3. Ruleaza `dotnet restore` pentru dependinte
 4. Ruleaza `dotnet test` pentru toate testele
+<img width="1554" height="631" alt="UITests" src="https://github.com/user-attachments/assets/2f373aa8-8cb3-43a9-bb1b-4bd084befe7b" />
+
+<img width="1007" height="1001" alt="APItest1" src="https://github.com/user-attachments/assets/d4806d8d-714a-4f9a-8493-c9e177a4eb6e" />
+
+<img width="562" height="1017" alt="APItest2" src="https://github.com/user-attachments/assets/2db3d61f-a482-4b77-9980-184e20bf3779" />
+
